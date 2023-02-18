@@ -1,0 +1,15 @@
+.header {
+    width: 100%;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 40px;
+    background: #222;
+    color: #fff;
+}
+
+.left-logo img{
+    width: 30%;
+}
